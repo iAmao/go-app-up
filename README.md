@@ -12,13 +12,17 @@ $ bash ./setup.sh
 
 ### How to use it
 Open up your terminal and enter:
-`go-app-up`
+```
+$ go-app-up
+```
 you will get prompted by something like this
-`$ Enter website(s):`
+```
+$ Enter website(s):
+```
 Enter the website you want to monitor(e.g: `http://google.com`) or you can enter multiple links,
 separating them by a comma(,)(e.g `http://google.com, http://exists.not`)
 Sit back and let the tool work away. You will get a notification if it encounters a down time.
-
+To stop the tool from watching just press `control`+ `c`.
 ### Supported OS
  - OSX(For now)
 
