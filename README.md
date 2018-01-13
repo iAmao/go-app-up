@@ -1,4 +1,4 @@
-### Go App Up
+## Go App Up
 A simple GoLang command line tool for getting notified if a website is down.
 
 ### Why?
@@ -7,6 +7,8 @@ To reduce manually having to check if a website is up and go be immediately noti
 ### How to install
 The installation is super simple, open up your terminal and run the following commands:
 ```
+$ git clone https://github.com/andela-iamao/go-app-up.git
+$ cd go-app-up
 $ bash ./setup.sh
 ```
 
